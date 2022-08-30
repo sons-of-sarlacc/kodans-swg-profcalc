@@ -2,6 +2,12 @@
 
 Modified KSWGProfCalc.dat for use with the [SWGEmu](https://www.swgemu.com) launchers bundled Kodan's SWG ProfCalc V4.0 to match the current status of Finalizer.
 
+## [1.0.2] - 30-08-2022
+- Politican:
+  - Corrected Description of Politician xxx4
+  - Corrected Title in Politician xxx4
+  - Removed abilities and skill mods incorrectly attributed to Politician xxx4
+
 ## [1.0.1] - 23-08-2022
 
 ### Changed
