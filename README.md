@@ -12,7 +12,7 @@ Modified KSWGProfCalc.dat for use with the [SWGEmu](https://www.swgemu.com) laun
 ## [1.0.2] - 30-08-2022
 
 ### Changed
-- Politican:
+- Politican [#3](https://github.com/sons-of-sarlacc/kodans-swg-profcalc/issues/3):
   - Corrected Description of Politician xxx4
   - Corrected Title in Politician xxx4
   - Removed abilities and skill mods incorrectly attributed to Politician xxx4
