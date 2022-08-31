@@ -1,4 +1,4 @@
-# Changelog
+# Readme
 
 Modified KSWGProfCalc.dat for use with the [SWGEmu](https://www.swgemu.com) launchers bundled Kodan's SWG ProfCalc V4.0 to match the current status of Finalizer.
 
@@ -6,6 +6,8 @@ Modified KSWGProfCalc.dat for use with the [SWGEmu](https://www.swgemu.com) laun
 
 1. In the `SWGEmu Launchpad` folder rename the existing `KSWGProfCalc.dat` to something like `KSWGProfCalc.dat.old` 
 2. Download my fixed [KSWGProfCalc.dat](https://github.com/sons-of-sarlacc/kodans-swg-profcalc/blob/main/KSWGProfCalc.dat?raw=true) into the `SWGEmu Launchpad` folder.
+
+## Changelog
 
 ## [1.0.2] - 30-08-2022
 - Politican:
