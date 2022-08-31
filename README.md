@@ -10,6 +10,8 @@ Modified KSWGProfCalc.dat for use with the [SWGEmu](https://www.swgemu.com) laun
 ## Changelog
 
 ## [1.0.2] - 30-08-2022
+
+### Changed
 - Politican:
   - Corrected Description of Politician xxx4
   - Corrected Title in Politician xxx4
