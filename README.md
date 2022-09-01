@@ -13,8 +13,8 @@ Modified KSWGProfCalc.dat for use with the [SWGEmu](https://www.swgemu.com) laun
 
 ### Changed
 - Ranger [#5](https://github.com/sons-of-sarlacc/kodans-swg-profcalc/issues/5) (thanks @kuehlworks for reporting)
-  - Corrected Creature Knowledge
-  - Corrected Creature Harvesting
+  - Corrected Creature Knowledge in Master Ranger
+  - Corrected Creature Harvesting in Master Ranger
 
 ## [1.0.2] - 30-08-2022
 
